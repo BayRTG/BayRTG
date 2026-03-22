@@ -73,9 +73,9 @@ I am a Software Engineering student with a strong interest in developing scalabl
 
 ---
 
-## 🏆 Achievements
+## 📈 Contribution Graph  
 
-![](https://github-profile-trophy.vercel.app/?username=BayRTG\&theme=radical\&no-frame=true\&no-bg=true\&margin-w=6)
+![Graph](https://github-readme-activity-graph.vercel.app/graph?username=BayRTG&theme=tokyo-night&hide_border=true)
 
 ---
 
