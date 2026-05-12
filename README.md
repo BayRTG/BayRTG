@@ -1,90 +1,38 @@
-<!-- Neon Header -->
+<!-- ========================= -->
+<!--        HEADER             -->
+<!-- ========================= -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:9C59FE,100:000000&height=180&section=header&text=BayRTG&fontSize=40&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,50:9C59FE,100:000000&height=220&section=header&text=BayRTG&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Fullstack%20Developer%20%7C%20Software%20Engineering%20Student&descAlignY=55&descSize=18" />
 </p>
 
-<!-- Typing Effect -->
+<!-- ========================= -->
+<!--      TYPING EFFECT        -->
+<!-- ========================= -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=9C59FE&size=22&center=true&vCenter=true&width=500&lines=Building+Scalable+Web+Applications;Fullstack+Developer+in+Progress;UI-Friendly+Developer" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=9C59FE&center=true&vCenter=true&width=700&lines=Building+Modern+and+Scalable+Web+Applications;Frontend+%26+Backend+Developer;Passionate+About+Clean+Architecture;Always+Learning+New+Technologies;Open+for+Internship+and+Freelance+Projects" />
 </p>
 
----
-
-# 💫 About Me
-
-👋 Hi, I'm **BayRTG**
-🚀 *Building Scalable Web Applications*
-
-I am a Software Engineering student with a strong interest in developing scalable and efficient web applications. I focus on building clean, maintainable systems while continuously improving my skills in both frontend and backend development. I enjoy transforming ideas into functional digital products with user-friendly interfaces and solid architecture.
-
----
-
-## 🧑‍💻 Profile Summary
-
-* 🎓 Software Engineering student
-* 🌐 Focused on Web Development
-* ⚡ Passionate about scalable systems
-* 🎨 UI-friendly & user-centered design
-* 📚 Currently learning **React.js & Node.js**
-* 🚀 Preparing for **internship & freelance opportunities**
-
----
-
-## 🚀 Featured Projects
+<!-- ========================= -->
+<!--        BADGES             -->
+<!-- ========================= -->
 
 <p align="center">
-
-<a href="https://github.com/BayRTG/gemini-chatbot-api">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=BayRTG&repo=gemini-chatbot-api&theme=tokyonight&hide_border=true" />
-</a>
-
-<a href="https://github.com/Digidaaw/RFD-Laundry">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Digidaaw&repo=RFD-Laundry&theme=tokyonight&hide_border=true" />
-</a>
-
-<a href="https://github.com/BayRTG/Flutter_Money_Tracker">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=BayRTG&repo=Flutter_Money_Tracker&theme=tokyonight&hide_border=true" />
-</a>
-
+  <img src="https://img.shields.io/github/followers/BayRTG?style=for-the-badge&color=9C59FE&labelColor=1a1a1a" />
+  <img src="https://img.shields.io/github/stars/BayRTG?style=for-the-badge&color=9C59FE&labelColor=1a1a1a" />
+  <img src="https://komarev.com/ghpvc/?username=BayRTG&style=for-the-badge&color=9C59FE" />
 </p>
 
 ---
 
-## 💻 Tech Stack
+# 👨‍💻 About Me
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,php,laravel,react,nodejs,mysql,git,vscode,figma&theme=dark" />
-</p>
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=BayRTG&theme=tokyonight&hide_border=true&show_icons=true" height="150"/>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=BayRTG&theme=tokyonight&hide_border=true" height="150"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BayRTG&theme=tokyonight&hide_border=true&layout=compact" height="150"/>
-</p>
-
----
-
-## 📈 Contribution Graph  
-
-![Graph](https://github-readme-activity-graph.vercel.app/graph?username=BayRTG&theme=tokyo-night&hide_border=true)
-
----
-
-## 🐍 Contribution Snake
-
-![snake gif](https://github.com/BayRTG/BayRTG/blob/output/github-contribution-grid-snake.svg)
-
----
-
-## ✍️ Dev Quote
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal\&theme=tokyonight)
+```javascript
+const BayRTG = {
+  role: "Fullstack Developer",
+  education: "Software Engineering Student",
+  focus: ["Web Development", "UI/UX", "Backend Systems"],
+  currentlyLearning: ["React.js", "Node.js", "Laravel"],
+  goals: ["Internship", "Freelance Projects", "Open Source"],
+};
