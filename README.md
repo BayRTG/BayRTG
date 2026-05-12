@@ -32,7 +32,7 @@
 
 # `> SYSTEM.INFO`
 
-<img align="right" height="425" width="500" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2Q4djM0cW9pZG9jcTRuZDRkM3B3eTQzYjN4NnM4ZDJiNHB4bnU0biZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l0HlNaQ6gWfllcjDO/giphy.gif"/>
+<img align="right" width="500" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2Q4djM0cW9pZG9jcTRuZDRkM3B3eTQzYjN4NnM4ZDJiNHB4bnU0biZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l0HlNaQ6gWfllcjDO/giphy.gif"/>
 
 ```yaml
 Name: BayRTG
