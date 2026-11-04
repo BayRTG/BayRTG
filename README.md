@@ -1,73 +1,50 @@
-<p align="center">
-  <img
-    src="https://capsule-render.vercel.app/api?type=rect&height=160&color=0d1117&text=BayRTG&fontColor=ffffff&fontSize=64&fontAlignY=45&desc=Fullstack%20Web%20Developer&descColor=ff3b3b&descSize=20&descAlignY=70"
-    width="100%"
-  />
-</p>
+<div align="center">
 
-<p align="center">
-  <strong>Fullstack Web Developer</strong>
-  <br>
-  Building clean, scalable, and practical web applications.
-</p>
+<table border="0" width="100%" style="border-collapse: collapse; border: none;">
+  <tr>
+    <!-- KOLOM KIRI: PROFIL -->
+    <td width="40%" align="center" valign="top" style="border: none; padding: 30px 20px;">
+      <!-- Ganti "adityabayu" pada URL dengan username GitHub Anda -->
+      <img src="https://github.com/adityabayu.png" width="140" style="border-radius: 50%; margin-bottom: 15px;" alt="Profile Picture">
+      
+      <h2 style="margin: 10px 0;">Aditya Bayu Pradibta</h2>
+      <p style="color: #888888; margin-bottom: 20px;">Full-Stack Web Developer | CS Undergraduate</p>
+      
+      <a href="https://linkedin.com/in/adityabayu" target="_blank">
+        <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+      </a>
+      <a href="https://x.com/adityabayu" target="_blank">
+        <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X">
+      </a>
+      <br><br>
+      <a href="mailto:emailanda@domain.com">
+        <img src="https://img.shields.io/badge/Email_Me-000000?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+      </a>
+    </td>
 
-<p align="center">
-  <a href="https://github.com/BayRTG">
-    <img src="https://img.shields.io/badge/GitHub-0d1117?style=flat-square&logo=github&logoColor=white">
-  </a>
-  <img src="https://img.shields.io/badge/Laravel-0d1117?style=flat-square&logo=laravel&logoColor=ff3b3b">
-  <img src="https://img.shields.io/badge/Node.js-0d1117?style=flat-square&logo=node.js&logoColor=white">
-</p>
+    <!-- KOLOM KANAN: SKILLS & TECH STACK -->
+    <td width="60%" valign="top" style="border: none; padding: 30px 20px;">
+      <h3 style="border-bottom: 1px solid #444; padding-bottom: 10px;">⚡ Tech Stack & Tools</h3>
+      <div align="left" style="margin-top: 15px;">
+        <img src="https://img.shields.io/badge/Laravel-000000?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel">
+        <img src="https://img.shields.io/badge/PHP-000000?style=for-the-badge&logo=php&logoColor=white" alt="PHP">
+        <img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript">
+        <br><br>
+        <img src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
+        <img src="https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
+        <img src="https://img.shields.io/badge/MS_SQL_Server-000000?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="MS SQL Server">
+        <br><br>
+        <img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white" alt="Git">
+      </div>
 
-<br>
+      <br>
+      <h3 style="border-bottom: 1px solid #444; padding-bottom: 10px; margin-top: 15px;">🚀 Current Focus</h3>
+      <ul align="left" style="color: #a3a3a3;">
+        <li>Developing full-stack web applications using MVC architecture</li>
+        <li>Executing complex database logic with Stored Procedures</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
-## About Me
-
-I'm Bay, a Fullstack Web Developer from Indonesia.
-
-I enjoy building web applications with a focus on:
-
-* Clean and maintainable code
-* Practical UI/UX
-* Reliable backend systems
-* Scalable application architecture
-
-Currently working with **Laravel, PHP, JavaScript, Node.js, MySQL, and Tailwind CSS**.
-
----
-
-## Tech Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=php,laravel,nodejs,js,mysql,tailwind,html,css,git,github" />
-</p>
-
----
-
-## What I Do
-
-**Backend Development**
-Laravel, PHP, REST API, MySQL, business logic, database integration.
-
-**Frontend Development**
-JavaScript, Tailwind CSS, responsive interfaces, interactive web applications.
-
-**System Development**
-Legacy system modernization, database integration, workflow implementation, and internal business applications.
-
----
-
-## Currently
-
-```text
-Building   →  Web applications
-Learning   →  Better architecture & cleaner code
-Improving  →  UI/UX and development workflow
-Exploring   →  Modern fullstack technologies
-```
-
----
-
-<p align="center">
-  <sub>BUILD • LEARN • CREATE • IMPROVE</sub>
-</p>
+</div>
