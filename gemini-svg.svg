@@ -1,0 +1,66 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="940" height="400" viewBox="0 0 940 400" role="img">
+  <defs>
+    <clipPath id="avatar-clip"><circle cx="112" cy="132" r="43" /></clipPath>
+    <style>
+      .card { fill: #101318; stroke: #343b46; stroke-width: 2; }
+      .muted { fill: #a5adba; font-family: Inter, Segoe UI, Arial, sans-serif; }
+      .main { fill: #f5f7fa; font-family: Inter, Segoe UI, Arial, sans-serif; }
+      .eyebrow { fill: #9aa4b2; font: 700 12px Inter, Segoe UI, Arial, sans-serif; letter-spacing: 3px; }
+      .role { fill: #f5f7fa; font: 700 25px Inter, Segoe UI, Arial, sans-serif; opacity: 0; animation: roleCycle 6s linear infinite; }
+      .role-two { animation-delay: -4s; }
+      .role-three { animation-delay: -2s; }
+      @keyframes roleCycle { 0%, 27% { opacity: 1; transform: translateY(0); } 32%, 95% { opacity: 0; transform: translateY(-7px); } 100% { opacity: 1; transform: translateY(0); } }
+      .bounce { transform-box: fill-box; transform-origin: center; animation: iconBounce 1.35s ease-in-out infinite; fill: #FFFFFF; }
+      .b2 { animation-delay: .12s; } .b3 { animation-delay: .24s; } .b4 { animation-delay: .36s; } .b5 { animation-delay: .48s; } .b6 { animation-delay: .60s; }
+      .b7 { animation-delay: .72s; } .b8 { animation-delay: .84s; } .b9 { animation-delay: .96s; } .b10 { animation-delay: 1.08s; } .b11 { animation-delay: 1.20s; } .b12 { animation-delay: 1.32s; }
+      @keyframes iconBounce { 0%, 100% { transform: translateY(0); } 45% { transform: translateY(-9px); } 65% { transform: translateY(1px); } 80% { transform: translateY(-3px); } }
+    </style>
+  </defs>
+
+  <rect class="card" x="18" y="18" width="426" height="364" rx="24" />
+  <rect class="card" x="470" y="18" width="452" height="364" rx="24" />
+
+  <!-- PROFILE CARD -->
+  <text class="eyebrow" x="52" y="62">PROFILE</text>
+  <circle cx="112" cy="132" r="44" fill="#222936" stroke="#596273" stroke-width="1.5" />
+  <text x="112" y="142" text-anchor="middle" fill="#f5f7fa" font-family="Inter, Arial, sans-serif" font-size="30" font-weight="700">B</text>
+  
+  <!-- GANTI DENGAN FOTO BASE64 ANDA -->
+  
+
+  <text class="main" x="178" y="119" font-size="27" font-weight="700">BayRTG</text>
+  <text class="muted" x="179" y="145" font-size="13">Fullstack Web Developer</text>
+
+  <g>
+    <text class="role" x="52" y="229">Hi, I'm Bay</text>
+    <text class="role role-two" x="52" y="229">Web Developer</text>
+    <text class="role role-three" x="52" y="229">Fullstack Developer</text>
+  </g>
+
+  <line x1="52" y1="260" x2="408" y2="260" stroke="#303744" stroke-width="1" />
+  <text class="muted" x="52" y="293" font-size="14">Building useful applications with</text>
+  <text class="muted" x="52" y="316" font-size="14">clean code and thoughtful design.</text>
+  <text x="52" y="352" fill="#7f8998" font-size="11" font-family="Inter, Arial, sans-serif" letter-spacing="1.5">ALWAYS LEARNING · ALWAYS BUILDING</text>
+
+  <!-- TECH STACK -->
+  <text class="eyebrow" x="506" y="62">TECH STACK</text>
+  <text class="muted" x="506" y="86" font-size="12"> </text>
+
+  <!-- Row 1: PHP, Laravel, MySQL, JavaScript -->
+  <g class="bounce b1" transform="translate(522, 116)"><svg width="48" height="48" viewBox="0 0 24 24"><path d="M12 0C5.37 0 0 5.37 0 12s5.37 12 12 12 12-5.37 12-12S18.63 0 12 0zm5.65 10.37c-.16.85-.83 1.16-1.57 1.16h-1.9l-.3 1.58h-1.63l.3-1.58h-1.03l-.3 1.58H9.6l.9-4.74h2.95c.88 0 1.63.31 1.83 1.37.11.63-.15 1.21-.53 1.63h.01zm-6.61.32h1.03l.24-1.26H9.28l-.24 1.26zm2.6-2.05h-1.03l.24-1.26h1.03c.31 0 .42.16.37.42-.05.26-.25.84-.61.84zm2.25 0h-1.03l.24-1.26h1.03c.31 0 .42.16.37.42-.05.26-.25.84-.61.84z" /></svg></g>
+  <g class="bounce b2" transform="translate(616, 116)"><svg width="48" height="48" viewBox="0 0 24 24"><path d="M7.37 21.05a1.49 1.49 0 0 1-1.34-.83L.18 8.35A1.5 1.5 0 0 1 1.52 6.18l19.56-2.67a1.5 1.5 0 0 1 1.64 1.96l-3.33 9.47a1.5 1.5 0 0 1-1.36.99H7.37zM2.84 7.64l5.05 11.82 9.77-2.46L21.49 5.86 2.84 7.64z" /></svg></g>
+  <g class="bounce b3" transform="translate(710, 116)"><svg width="48" height="48" viewBox="0 0 24 24"><path d="M11.96 0c-4.48 0-8.52 2.72-10.42 6.84-.28.62-.05 1.34.54 1.66.58.32 1.32.08 1.62-.54 1.42-3.08 4.46-5.12 7.82-5.12h.88c.84 0 1.52-.68 1.52-1.52S13.24 0 12.4 0h-.44zm7.64 3.42c-.52-.4-1.28-.28-1.68.24-.4.52-.28 1.28.24 1.68 2.66 2.1 4.22 5.3 4.22 8.66 0 6.18-5.02 11.2-11.2 11.2-5.74 0-10.5-4.32-11.14-9.92-.08-.72-.74-1.24-1.46-1.16-.72.08-1.24.74-1.16 1.46C.2 22.42 6.02 27.68 12.8 27.68 20.36 27.68 26.5 21.54 26.5 13.98c0-4.32-1.98-8.38-5.34-11.08h.04z" /></svg></g>
+  <g class="bounce b4" transform="translate(804, 116)"><svg width="48" height="48" viewBox="0 0 24 24"><path d="M0 0h24v24H0V0zm22.03 18.28c-.18-1.1-.89-2.02-3-2.87-.74-.35-1.55-.59-1.8-1.14-.09-.33-.11-.51-.05-.71.15-.65.92-.84 1.52-.81.39.02.75.12 1.05.32.3.18.57.44.8.74l2.03-1.46c-.39-.56-.86-1-1.43-1.34-.72-.42-1.58-.62-2.49-.6-1.55.03-2.85.57-3.71 1.46-.84.88-1.25 2.05-1.16 3.39.06 1.15.68 2.11 2.51 2.86.73.32 1.56.56 1.81 1.13.11.34.11.54.05.75-.15.63-.9.84-1.52.81-.44-.02-.84-.14-1.22-.36-.36-.21-.69-.51-.97-.87l-2.07 1.44c.44.62.96 1.13 1.59 1.49.81.45 1.76.68 2.76.66 1.64-.03 2.99-.59 3.84-1.49.84-.87 1.23-2.04 1.14-3.38zm-11.4 0c-.18-1.1-.89-2.02-3.02-2.87-.74-.35-1.55-.59-1.79-1.14-.09-.33-.11-.51-.05-.71.15-.65.92-.84 1.52-.81.39.02.75.12 1.05.32.3.18.57.44.8.74l2.03-1.46c-.39-.56-.86-1-1.43-1.34-.72-.42-1.58-.62-2.49-.6-1.55.03-2.85.57-3.71 1.46-.84.88-1.25 2.05-1.16 3.39.06 1.15.68 2.11 2.51 2.86.73.32 1.56.56 1.81 1.13.11.34.11.54.05.75-.15.63-.9.84-1.52.81-.44-.02-.84-.14-1.22-.36-.36-.21-.69-.51-.97-.87l-2.07 1.44c.44.62.96 1.13 1.59 1.49.81.45 1.76.68 2.76.66 1.64-.03 2.99-.59 3.84-1.49.84-.87 1.23-2.04 1.14-3.38z" /></svg></g>
+
+  <!-- Row 2: HTML5, CSS3, Tailwind, Bootstrap -->
+  <g class="bounce b5" transform="translate(522, 210)"><svg width="48" height="48" viewBox="0 0 24 24"><path d="M1.5 0h21l-1.91 21.56L11.98 24l-8.56-2.44L1.5 0zm17.09 4.16l-.23-2.59H5l.23 2.59h13.36zm-.42 4.74h-10.45l.24 2.69h9.97l-.76 8.53-5.74 1.59-5.73-1.59-.36-4.08H5.16l.58 6.56L12 24l6.25-1.74 1.18-13.36z" /></svg></g>
+  <g class="bounce b6" transform="translate(616, 210)"><svg width="48" height="48" viewBox="0 0 24 24"><path d="M1.5 0h21l-1.91 21.56L11.98 24l-8.56-2.44L1.5 0zm17.09 4.16H5l.23 2.59h13.36l-.23-2.59zm-.42 4.74H7.72l.24 2.69h9.97l-.76 8.53-5.74 1.59-5.73-1.59-.36-4.08H5.16l.58 6.56L12 24l6.25-1.74 1.18-13.36z" /></svg></g>
+  <g class="bounce b7" transform="translate(710, 210)"><svg width="48" height="48" viewBox="0 0 24 24"><path d="M12 4.8c-3.2 0-6 1.6-7.2 4.8 1.2-1.6 2.8-2.4 4.8-2.4 1.8 0 2.8.86 3.95 1.91C14.94 10.4 16.59 12 20 12c3.2 0 6-1.6 7.2-4.8-1.2 1.6-2.8 2.4-4.8 2.4-1.8 0-2.8-.86-3.95-1.91C17.06 6.4 15.41 4.8 12 4.8zM7.2 12c-3.2 0-6 1.6-7.2 4.8 1.2-1.6 2.8-2.4 4.8-2.4 1.8 0 2.8.86 3.95 1.91C10.14 17.6 11.79 19.2 15.2 19.2c3.2 0 6-1.6 7.2-4.8-1.2 1.6-2.8 2.4-4.8 2.4-1.8 0-2.8-.86-3.95-1.91C12.26 13.6 10.61 12 7.2 12z" /></svg></g>
+  <g class="bounce b8" transform="translate(804, 210)"><svg width="48" height="48" viewBox="0 0 24 24"><path d="M12 0c-6.63 0-12 5.37-12 12s5.37 12 12 12 12-5.37 12-12S18.63 0 12 0zm-1.12 17.66H7.13V6.63h3.7c1.19 0 2.12.24 2.77.73.65.49 1.01 1.15 1.08 2 .04.54-.07 1.04-.33 1.47-.27.44-.69.77-1.26 1 1.44.27 2.21 1.1 2.32 2.46.08.99-.25 1.77-.98 2.33-.73.56-1.76.84-3.09.84h-.46zm-.47-5.6h1.56c.59 0 1.01-.14 1.25-.41.24-.27.36-.65.36-1.14 0-.5-.12-.88-.37-1.14-.25-.27-.68-.4-1.29-.4H9.42v3.09zm.57 4.4h1.61c.72 0 1.2-.14 1.46-.44.26-.29.39-.71.39-1.26 0-.58-.13-1-.4-1.26-.27-.26-.76-.39-1.46-.39H9.98v3.35z" /></svg></g>
+
+  <!-- Row 3: Git, GitHub, Linux, VS Code -->
+  <g class="bounce b9" transform="translate(522, 304)"><svg width="48" height="48" viewBox="0 0 24 24"><path d="M23.55 11.23l-10.78-10.78C12.44.12 11.9 0 11.38 0 10.86 0 10.33.12 9.95.5l-9.45 9.45c-.39.39-.5.93-.5 1.45 0 .52.11 1.06.5 1.45l10.78 10.78c.39.39.93.5 1.45.5.52 0 1.06-.11 1.45-.5l9.45-9.45c.39-.39.5-.93.5-1.45 0-.52-.11-1.06-.5-1.45h-.08zm-9.33 1.22c-.65.65-1.72.65-2.37 0l-1.32-1.32-3.13 3.13c.27.3.43.71.43 1.16 0 1.04-.84 1.88-1.88 1.88s-1.88-.84-1.88-1.88.84-1.88 1.88-1.88c.39 0 .74.12 1.02.32l3.05-3.05c-.09-.27-.15-.56-.15-.86 0-1.04.84-1.88 1.88-1.88s1.88.84 1.88 1.88c0 .28-.06.55-.15.82l1.37 1.37c.3-.23.67-.36 1.07-.36 1.04 0 1.88.84 1.88 1.88s-.84 1.88-1.88 1.88z" /></svg></g>
+  <g class="bounce b10" transform="translate(616, 304)"><svg width="48" height="48" viewBox="0 0 24 24"><path d="M12 .3a12 12 0 0 0-3.8 23.4c.6.1.8-.3.8-.6v-2c-3.3.7-4-1.6-4-1.6-.5-1.4-1.3-1.8-1.3-1.8-1-.7.1-.7.1-.7 1.2.1 1.8 1.2 1.8 1.2 1 1.8 2.8 1.3 3.5 1 .1-.8.4-1.3.7-1.6-2.7-.3-5.5-1.3-5.5-5.9 0-1.3.5-2.4 1.2-3.2-.1-.3-.5-1.5.1-3.2 0 0 1-.3 3.3 1.2a11.5 11.5 0 0 1 6 0c2.3-1.5 3.3-1.2 3.3-1.2.6 1.7.2 2.9.1 3.2.8.8 1.2 1.9 1.2 3.2 0 4.6-2.8 5.6-5.5 5.9.4.4.8 1.1.8 2.2v3.3c0 .3.2.7.8.6A12 12 0 0 0 12 .3" /></svg></g>
+  <g class="bounce b11" transform="translate(710, 304)"><svg width="48" height="48" viewBox="0 0 24 24"><path d="M11.66 0c-1.34.02-2.82.6-3.88 1.47-.7.56-1.07 1.37-1.37 2.19-.34.91-.4 1.93-.34 2.87.1.91.43 1.78.84 2.56-2.18.23-3.66 1.94-3.56 4.1.06 1.22.65 2.37 1.47 3.31.84.95 1.97 1.62 3.16 2.03.02 1.44.5 2.88 1.5 3.94 1.05 1.13 2.59 1.56 4.12 1.53 1.33-.03 2.65-.56 3.66-1.4.92-.76 1.5-1.85 1.72-3 .83-.34 1.6-.82 2.25-1.4 1.4-1.28 2.1-3.13 1.9-5-.18-1.74-1.2-3.25-2.6-4.17.65-1.2.84-2.58.5-3.84-.34-1.26-1.12-2.35-2.19-3.03-1.16-.74-2.53-1-3.9-1.06l-.28-.1H11.66zM9.53 5.4c.56 0 1 .45 1 1.02s-.44 1.02-1 1.02-1-.45-1-1.02.44-1.02 1-1.02zm5 0c.56 0 1 .45 1 1.02s-.44 1.02-1 1.02-1-.45-1-1.02.44-1.02 1-1.02z" /></svg></g>
+  <g class="bounce b12" transform="translate(804, 304)"><svg width="48" height="48" viewBox="0 0 24 24"><path d="M18.8 2.7l-4.4 3.7L3.1 2.3 0 4l12 9-12 9 3.1 1.7 11.3-4.1 4.4 3.7 3.2-1.7V4.4L18.8 2.7zm-2.8 13.9l-5.6-4.9 5.6-4.9v9.8z" /></svg></g>
+</svg>
