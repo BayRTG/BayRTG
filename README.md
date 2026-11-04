@@ -2,14 +2,10 @@
 
 <table border="0" width="100%" style="border-collapse: collapse; border: none;">
   <tr>
-    <!-- KOLOM KIRI: PROFIL -->
     <td width="40%" align="center" valign="top" style="border: none; padding: 30px 20px;">
-      <!-- Ganti "adityabayu" pada URL dengan username GitHub Anda -->
       <img src="https://github.com/adityabayu.png" width="140" style="border-radius: 50%; margin-bottom: 15px;" alt="Profile Picture">
-      
       <h2 style="margin: 10px 0;">Aditya Bayu Pradibta</h2>
       <p style="color: #888888; margin-bottom: 20px;">Full-Stack Web Developer | CS Undergraduate</p>
-      
       <a href="https://linkedin.com/in/adityabayu" target="_blank">
         <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
       </a>
@@ -21,8 +17,6 @@
         <img src="https://img.shields.io/badge/Email_Me-000000?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
       </a>
     </td>
-
-    <!-- KOLOM KANAN: SKILLS & TECH STACK -->
     <td width="60%" valign="top" style="border: none; padding: 30px 20px;">
       <h3 style="border-bottom: 1px solid #444; padding-bottom: 10px;">⚡ Tech Stack & Tools</h3>
       <div align="left" style="margin-top: 15px;">
@@ -36,7 +30,6 @@
         <br><br>
         <img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white" alt="Git">
       </div>
-
       <br>
       <h3 style="border-bottom: 1px solid #444; padding-bottom: 10px; margin-top: 15px;">🚀 Current Focus</h3>
       <ul align="left" style="color: #a3a3a3;">
