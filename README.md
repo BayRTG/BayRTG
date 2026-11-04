@@ -1,7 +1,7 @@
 <!-- PROFILE CARDS -->
 <p align="center">
   <img
-    src="./assets/profile-cards.svg"
+    src="./assets/BayRTG.svg"
     width="100%"
     alt="BayRTG Profile and Tech Stack"
   />
