@@ -51,8 +51,8 @@
   <circle cx="112" cy="132" r="44" fill="#222936" stroke="#596273" stroke-width="1.5"/>
   <text x="112" y="142" text-anchor="middle" fill="#f5f7fa" font-family="Inter, Arial, sans-serif" font-size="30" font-weight="700">B</text>
   <image x="69" y="89" width="86" height="86"
-         href="https://github.com/YOUR_GITHUB_USERNAME.png"
-         xlink:href="https://github.com/YOUR_GITHUB_USERNAME.png"
+         href="https://github.com/BayRTG.png"
+         xlink:href="https://github.com/BayRTG.png"
          preserveAspectRatio="xMidYMid slice" clip-path="url(#avatar-clip)"/>
 
   <text class="main" x="178" y="119" font-size="27" font-weight="700">BayRTG</text>
